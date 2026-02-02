@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">Software developer and more</h3>
+<h3 align="center">Computer engineer and more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronald198&label=Profile%20views&color=0e75b6&style=flat" alt="ronald198" /> </p>
 
 - 🔭 I’m currently working on **extra curricular projects**
 
-- 🌱 I’m currently learning **Flutter, Cybersecurity, more Programming**
+- 🌱 I’m currently learning **Flutter, Engineering, more Programming**
 
-- 👯 I’m looking to collaborate on **software development projects**
+- 👯 I’m looking to collaborate on **Computer & Software engineering projects**
 
 <p align="left">
 </p>
